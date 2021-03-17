@@ -1,4 +1,10 @@
+*.log
+*.pot
+*.pyc
 */__pycache__/*
+local_settings.py
 virtual/
 db.sqlite3
 */migrations/*
+/media
+/static
